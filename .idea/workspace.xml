@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81f8aafa-b148-4337-9015-4a167460e364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CashbackHackService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CashbackHackServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="81f8aafa-b148-4337-9015-4a167460e364" name="Changes" comment="'test'">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CashbackHackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CashbackHackService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CashbackHackServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/CashbackHackServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -80,7 +80,7 @@
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.shouldNotRemainIfBoundary">
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -175,10 +175,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CashbackHackServiceTest" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldNotRemainIfBoundary" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldRemainIfOverBoundary" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldRemainIfUnderBoundary" />
-        <item itemvalue="Gradle.CashbackHackServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +191,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665074077962</updated>
     </task>
+    <task id="LOCAL-00001" summary="'test'">
+      <created>1665080328372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665080328372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,7 +212,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'test'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'test'" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/untitled$CashbackHackServiceTest.ic" NAME="CashbackHackServiceTest Coverage Results" MODIFIED="1665079306826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/untitled$CashbackHackServiceTest.ic" NAME="CashbackHackServiceTest Coverage Results" MODIFIED="1665080530755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
