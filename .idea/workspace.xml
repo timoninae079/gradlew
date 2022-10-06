@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81f8aafa-b148-4337-9015-4a167460e364" name="Changes" comment="'test'">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CashbackHackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CashbackHackService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CashbackHackServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/CashbackHackServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +63,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>

@@ -1,10 +1,9 @@
 package org.example;
 
-import org.example.CashbackHackService;
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.testng.Assert.assertEquals;
 
 public class CashbackHackServiceTest {
 
