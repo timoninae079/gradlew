@@ -30,7 +30,7 @@ public class CashbackHackServiceTest {
     @Test
     public void shouldNotRemainIfBoundary() {
         CashbackHackService service = new CashbackHackService();
-        int expected = 1000;
+        int expected = 0;
         int amount = 1000;
 
         int actual = service.remain(amount);
