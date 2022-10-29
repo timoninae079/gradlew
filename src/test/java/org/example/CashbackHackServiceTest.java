@@ -1,10 +1,8 @@
 package org.example;
 
-import org.example.CashbackHackService;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class CashbackHackServiceTest {
 
@@ -31,10 +29,11 @@ public class CashbackHackServiceTest {
     @Test
     public void shouldNotRemainIfBoundary() {
         CashbackHackService service = new CashbackHackService();
-        int expected = 1000;
+        int expected = 0;
         int amount = 1000;
 
         int actual = service.remain(amount);
         assertEquals(expected, actual);
     }
+
 }
